@@ -1,0 +1,12 @@
+1/Spania/Hotel Roka/500/9/20
+2/Olanda/Hotel Mara/200/4/25
+3/Japonia/Hotel Himawari/1200/5/10
+4/Grecia/Hotel Umi/300/7/15
+5/Italia/Hotel Pizza/250/8/18
+6/Spania/Hotel RRRR/235/10/20
+7/Olanda/Hotel Meza/875/5/25
+8/Japonia/Hotel Hemi/3600/3/18
+9/Italia/Hotel Aldo/250/8/18
+10/Serbia/Hotel Erueru/235/10/4
+11/Philipine/Hotel Sakana/600/5/5
+12/Japonia/Hotel Miru/4000/3/20

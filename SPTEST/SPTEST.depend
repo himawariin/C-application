@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1617099981 source:c:\users\stefania\desktop\programare\sptest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1618308970 source:d:\facultate\programare\sptest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
